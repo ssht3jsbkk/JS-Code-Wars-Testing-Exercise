@@ -1,0 +1,14 @@
+{
+  "name": "javascriptcodewarsrecaptask",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jsCodeWars.js",
+  "scripts": {
+    "test": "jest --coverage --watchAll"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^21.2.1"
+  }
+}
